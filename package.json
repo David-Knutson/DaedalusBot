@@ -1,0 +1,17 @@
+{
+  "name": "daedalusdiscordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.11.1",
+    "@types/ws": "^7.2.3",
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
