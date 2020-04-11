@@ -20,6 +20,10 @@ client.on("message", (msg) => {
       } else {
         if (msg.content == "ass and") {
           msg.channel.send("titties");
+        } else {
+          if (msg.content == "Littering and?") {
+            msg.channel.send("Littering and smoking the refer.");
+          }
         }
       }
     }
