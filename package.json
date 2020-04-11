@@ -2,12 +2,20 @@
   "name": "daedalusdiscordbot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Knutson/DaedalusBot.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-Knutson/DaedalusBot/issues"
+  },
+  "homepage": "https://github.com/David-Knutson/DaedalusBot#readme",
   "dependencies": {
     "@types/node": "^13.11.1",
     "@types/ws": "^7.2.3",
