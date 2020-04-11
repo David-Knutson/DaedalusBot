@@ -9,8 +9,32 @@ client.on("ready", () => {
 });
 
 client.on("message", (msg) => {
-  if (msg.content == "ping") {
-    msg.channel.send("pong");
+  if (msg.content == "ass") {
+    msg.channel.send("titties");
+  } else {
+    if (msg.content == "2 asses") {
+      msg.channel.send("4 titties");
+    } else {
+      if (msg.content == "ass ass") {
+        msg.channel.send("titties titties");
+      } else {
+        if (msg.content == "ass and") {
+          msg.channel.send("titties");
+        }
+      }
+    }
+  }
+});
+
+client.on("message", (msg) => {
+  if (msg.content == "officer that's not ours") {
+    msg.channel.send("CANDY BARS!");
+  }
+});
+
+client.on("message", (msg) => {
+  if (msg.content == "warzone?") {
+    msg.channel.send("It's time for some truckin n fuckin boiz!");
   }
 });
 
