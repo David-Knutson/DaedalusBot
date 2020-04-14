@@ -17,9 +17,21 @@
   },
   "homepage": "https://github.com/David-Knutson/DaedalusBot#readme",
   "dependencies": {
+    "@discordjs/opus": "^0.1.0",
     "@types/node": "^13.11.1",
     "@types/ws": "^7.2.3",
+    "axios": "^0.19.2",
+    "bufferutil": "^4.0.1",
+    "call-of-duty-api": "^1.0.26",
     "discord.js": "^12.1.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "erlpack": "github:discordapp/erlpack",
+    "ffmpeg-static": "^2.7.0",
+    "libsodium-wrappers": "^0.7.6",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.6",
+    "sodium": "^3.0.2",
+    "utf-8-validate": "^5.0.2",
+    "zlib-sync": "^0.1.6"
   }
 }
