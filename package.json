@@ -20,7 +20,7 @@
     "@discordjs/opus": "^0.1.0",
     "@types/node": "^13.11.1",
     "@types/ws": "^7.2.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bufferutil": "^4.0.1",
     "call-of-duty-api": "^1.0.26",
     "discord.js": "^12.1.1",
