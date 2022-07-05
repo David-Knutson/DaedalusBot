@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/David-Knutson/DaedalusBot#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "@types/node": "^13.11.1",
     "@types/ws": "^7.2.3",
     "axios": "^0.19.2",
